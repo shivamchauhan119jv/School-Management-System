@@ -4,14 +4,15 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "node server.js", 
+    
     "server" : "nodemon server.js"
   },
   "keywords": [
     "lms",
     "node.js"
   ],
-  "author": "",
+  "author": "SHIVAM CHAUHAN",
   "license": "ISC",
   "description": "shivam's school_management_system",
   "dependencies": {
