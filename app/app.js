@@ -6,7 +6,6 @@ const app = express();
 //MiddleWare
 app.use(morgan("dev"));
 
-
 //Routes
 
 //Admin Register
